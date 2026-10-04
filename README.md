@@ -1,6 +1,6 @@
 # Disease Detection with Machine Learning (Python)
 
-A machine learning project that predicts whether a breast tumour is **malignant** or **benign** from measurements of cell nuclei taken from a biopsy image.
+A machine learning project that predicts whether a tumour is **malignant** or **benign** from measurements of cell nuclei taken from a biopsy image.
 
 > **This is a learning project. It is not a medical device and must never be used to diagnose anyone.**
 
