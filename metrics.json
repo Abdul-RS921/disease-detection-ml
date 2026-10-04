@@ -1,0 +1,23 @@
+{
+  "model": "Logistic Regression",
+  "test_patients": 114,
+  "accuracy": 0.9824561403508771,
+  "malignant_precision": 0.9761904761904762,
+  "malignant_recall": 0.9761904761904762,
+  "malignant_f1": 0.9761904761904762,
+  "confusion_matrix [[TN,FP],[FN,TP]] for malignant": [
+    [
+      71,
+      1
+    ],
+    [
+      1,
+      41
+    ]
+  ],
+  "cross_validation_recall_macro": {
+    "Logistic Regression": 0.9753353973168213,
+    "Support Vector Machine": 0.9641898864809081,
+    "Random Forest": 0.9636222910216719
+  }
+}
